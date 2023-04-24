@@ -4,7 +4,7 @@ def initialise(phrase):
     for word in words:
         result=result+word[0].upper()
     return result
-print(initialise("Universal Serial Bus"))
+print(initialise("Uninterruptible Power Supply"))
 
 def sum_numbers(numbers):
     if numbers<=1:
